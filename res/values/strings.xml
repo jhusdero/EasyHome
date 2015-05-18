@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">EasyStudy</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_search">Search</string>
+    <string name="action_refresh">Refresh</string>
+    <string name="action_help">Help</string>
+    <string name="search_hint">Search Here</string>
+    <string name="Tap_Watch">TAP TO WATCH</string>
+    <string name="Tap_Listen">TAP TO LISTEN</string>
+    <string name="Light">LIGHT BULB</string>
+    <string name="Button1_video">LECTURE ON SCALAR AND VECTOR FIELDS</string>
+    <string name="Button2_video">TUTORIAL ON SCALAR AND VECTOR FIELDS</string>
+    <string name="Button3_video">LECTURE ON ELECTROSTATICS</string>
+    <string name="Button4_video">TUTORIAL ON ELECTRONICS</string>
+    <string name="Button5_video">LECTURE ON MAGNETIC CIRCUITS</string>
+    <string name="Button6_video">TUTORIAL ON MAGNETIC CIRCUITS</string>
+    <string name="image"></string>
+    <string name="ToggleButton"></string>
+    <string-array name="type">
+        <item >LECTURE 1</item>
+        <item >TUTORIAL 1</item>
+        <item >LECTURE 2</item>
+        <item >TUTORIAL 2</item>
+        <item >LECTURE 3</item>
+        <item >TUTORIAL 3</item>
+        <item >LECTURE 4</item>
+        <item >TUTORIAL 4</item>
+    </string-array>
+	
+    <string-array name="topics">
+        <item >Scalar And Vector Fields</item>
+        <item >Scalar And Vector Fields</item>
+        <item >Magnetostatics</item>
+        <item >Magnetostatics</item>
+        <item >Electrostatics</item>
+        <item >Electrostatics</item>
+        <item >Magnetic Circuits</item>
+        <item >Magnetic Circuits</item>
+    </string-array>
+</resources>
